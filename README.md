@@ -1,5 +1,5 @@
 ## 💫 About Me:
--🫡 Computer Science Senior at [Manipal University Jaipur](https://jaipur.manipal.edu/)<br>- 🔭 I’m currently working on MERN Stack<br>- 🌱 I’m presently learning Development<br>- 👯 I’m looking to collaborate on Open Source projects related to ML, AI and Web Development <br>- 🤔 I’m looking for help with Web Development<br>- 📫 How to reach me: You can connect me through [Mail](mailto:jatinbhuria777@gmail.com) or [LinkedIn](https://linkedin.com/in/jatin-bhuria-a20405252/)<br>
+-🫡 Computer Science Junior at [Manipal University Jaipur](https://jaipur.manipal.edu/)<br>- 🔭 I’m currently working on MERN Stack<br>- 🌱 I’m presently learning Development<br>- 👯 I’m looking to collaborate on Open Source projects related to ML, AI and Web Development <br>- 🤔 I’m looking for help with Web Development<br>- 📫 How to reach me: You can connect me through [Mail](mailto:jatinbhuria777@gmail.com) or [LinkedIn](https://linkedin.com/in/jatin-bhuria-a20405252/)<br>
 
 
 ## 👾 Socials:
